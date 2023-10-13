@@ -266,7 +266,7 @@ header p {
     -o-border-radius: 10px;
 }
 .bav {
-    background-image: url('img/Colorcard-hex_ffc107-www.colorbook.io.png');    
+    background-image: url('../img/Colorcard-hex_ffc107-www.colorbook.io.png');    
 }
 iframe {
     filter: invert(100%);
