@@ -2,7 +2,7 @@ html {
     scroll-behavior: smooth;
 }
 :root {
-    
+    --yellow: #856400;
 }
 a {
     text-decoration: none;
